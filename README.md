@@ -1,2 +1,13 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7696704&assignment_repo_type=AssignmentRepo)
-# AdSoyad_Homework
+# Northwind Database ile N-Katmanlı Mimari
+
+### Senaryo
+---
+Her bir Model'e ait;
+* Interface katmanına Servis'lerin tanımlanması
+* Bll (Business Logic Layer - İş Katmanı) katmanına Manager sınıflarının tanımlanması
+* Dal (Data Access Layer) katmanına Interface'lerin (IRepository) ve Class'ların (Repository) tanımlanması.
+
+### Amaç
+---
+* Interface katmanında bulunan Servis'lerin Manager'a Kalıtım verir.
+* IRepository -> Repository yapısına kalıtım verir.
