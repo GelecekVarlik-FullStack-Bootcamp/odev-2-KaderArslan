@@ -1,4 +1,5 @@
 ﻿using Northwind.Entity.Dto;
+using Northwind.Entity.IBase;
 using Northwind.Entity.Models;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,5 @@ namespace Northwind.Interface
 {
     public interface IInvoiceService : IGenericService<Invoice, DtoInvoice>
     {
-        IQueryable<DtoInvoice> GetTotalReport();
     }
 }

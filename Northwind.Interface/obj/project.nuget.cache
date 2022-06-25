@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vwb2yBbFFtVswrZcuoHsfYeHoPu0mdaxVBUGhqA28sOgrpptXBeRHqxrqeYEe6tv7HHHUpWuQ4RRFU3as5QLcA==",
+  "dgSpecHash": "rJAfPnR2A6dqjUdS0iihdK0R7uNxZLD5r1FXPXcQpgpg2IblEpJaWJbmnvEMlM1IzczFn4xlLxoxy7iUzQsjMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Casper\\Desktop\\patika.dev\\gelecek-varlik\\projeler\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
+  "projectFilePath": "C:\\Users\\Casper\\Desktop\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Casper\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
